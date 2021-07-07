@@ -38,7 +38,7 @@
     "datatables.net-rowreorder-bs4": "^1.2.3",
     "datatables.net-scroller-bs4": "^1.4.4",
     "datatables.net-select-bs4": "^1.2.5",
-    "dropzone": "^5.2.0",
+    "dropzone": "^5.9.2",
     "easy-scroll": "^0.5.1",
     "eonasdan-bootstrap-datetimepicker": "^4.17.47",
     "es6-promise-polyfill": "^1.2.0",
